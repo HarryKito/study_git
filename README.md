@@ -1,2 +1,2 @@
 # study_git
-Study repository
+This repository just for studing git and github
